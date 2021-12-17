@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Actor" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAABAABoAAGACAAAQAAABIAAAEAAAAAABAAAAI=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CollisionAvoidant" Collapsed="true">
+    <Position X="17.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAABAAAAABAAAIAAAAAAAAAAAgCAAQ=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GhostRacer" Collapsed="true">
+    <Position X="14" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobileActors" Collapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAQAAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZombieCab" Collapsed="true">
+    <Position X="16.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAACAAAAAIAAAAAAAAAAACAAQBAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pedestrian" Collapsed="true">
+    <Position X="19.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HumanPedestrian" Collapsed="true">
+    <Position X="18.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZombiePedestrian" Collapsed="true">
+    <Position X="20.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAABAAAAAAAAAFAABAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NonCollisionAvoidant" Collapsed="true">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OilSlick" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolyWaterProjectile" Collapsed="true">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAAAAABAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BorderLine" Collapsed="true">
+    <Position X="11.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAQAAAAAAAAAAAAIAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Goodie" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealingGoodie" Collapsed="true">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoulGoodie" Collapsed="true">
+    <Position X="2.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HolyWaterGoodie" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAABCACCA=</HashCode>
+      <FileName>Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
